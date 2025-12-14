@@ -1,0 +1,3 @@
+# Clarkson University Scout Description
+
+This repository contains working xacro files for the AgileX Scout 2.0 and Scout mini modified from the [scout_ros2](https://github.com/agilexrobotics/scout_ros2) repository. Only useful to someone working with either UGV at Clarkson University. The Scout 2.0 description includes links for the Robosense LiDAR, and GPS/IMU links for the InertialSense uINS. The Scout mini description includes links for both the Robosense and Livox LiDAR, and a camera. You can use the existing sensor links as a template for any additional links you need to add.
